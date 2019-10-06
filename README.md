@@ -1,2 +1,2 @@
 # Kattis-problem-solutions
-It contains the solutions from codeforces problems
+It contains the solutions from kattis problems
